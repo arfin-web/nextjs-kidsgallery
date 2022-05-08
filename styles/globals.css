@@ -14,3 +14,58 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.banner {
+  height: 80vh;
+  background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2021_07/1676075/six-month-old-gift-main-khu-210218.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.signup-container {
+  height: 80vh;
+  background-image: url('https://whmcsglobalservices.com/wp-content/uploads/2018/09/login-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.signin-container {
+  height: 90vh;
+  background-image: url('https://whmcsglobalservices.com/wp-content/uploads/2018/09/login-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-container {
+  height: 80vh;
+  background-image: url('https://cdn.wallpapersafari.com/16/22/PMdmUG.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-title {
+  font-size: 65px;
+}
+
+.contact-container {
+  height: 80vh;
+  background-image: url('https://wallpaperaccess.com/full/3124512.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.makereview-container {
+  height: 80vh;
+  background-image: url('https://www.tonysuits.com/wp-content/uploads/2018/07/review-background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
